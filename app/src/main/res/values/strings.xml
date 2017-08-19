@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">RudrakshApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+
+    <string name="menu_one">What is Rudraksh ?</string>
+    <string name="menu_two">Know Your Rudraksh</string>
+    <string name="menu_three">Various Mukhis</string>
+    <string name="menu_four">Combinations</string>
+    <string name="menu_five">Buy Rudraksh</string>
+    <string name="menu_six">Rudraksh Tips</string>
+
+    <string name="myth_text">Mythological Introduction about Rudraksh</string>
+
+    <string name="chemical_heading">Chemical Properties</string>
+    <string name="electrical_heading">Electrical Properties</string>
+    <string name="magnetic_heading">Magnetic Properties</string>
+
+    <string name="chemical_text">
+      The Rudraksha beads are mainly natural seed product that contain Carbon, Hydrogen, Oxygen, Nitrogen and different  elements in a combined form. The gaseous elements in the following proportion :\n\n
+      Carbon	\t\t50.024 \n
+      Hydrogen	\t\t17.798 \n
+      Nitrogen	\t\t0.9461 \n
+      Oxygen	\t\t30.4531 \n\n
+      The following elements are also present albeit in less quantities :\n\n
+      Aluminum, Calcium, Chlorine, Copper, Cobalt, Nickel, Iron, Magnesium, Manganese, Phosphorous, Potassium, Sodium, Silicon Oxide and Zinc.\n\n
+      The beneficial powers of Rudraksha are by virtue of its Electrical and Magnetic Properties. Rudraksha beads act as a Stabilizing Anchor. Rudraksha beads electrical properties are : Resistance, Capacitance or the Dielectric Properties, Inductance. Rudraksha has the ability to Change its polarity.\n\n
+
+  </string>
+
+    // rudraksh names
+
+    <string name="one_mukhi">1 Mukhi</string>
+    <string name="two_mukhi">2 Mukhi</string>
+    <string name="three_mukhi">3 Mukhi</string>
+    <string name="four_mukhi">4 Mukhi</string>
+    <string name="five_mukhi">5 Mukhi</string>
+    <string name="six_mukhi">6 Mukhi</string>
+    <string name="seven_mukhi">7 Mukhi</string>
+    <string name="eight_mukhi">8 Mukhi</string>
+    <string name="nine_mukhi">9 Mukhi</string>
+    <string name="ten_mukhi">10 Mukhi</string>
+    <string name="eleven_mukhi">11 Mukhi</string>
+    <string name="twelve_mukhi">12 Mukhi</string>
+    <string name="thirteen_mukhi">13 Mukhi</string>
+    <string name="fourteen_mukhi">14 Mukhi</string>
+    <string name="fifteen_mukhi">Gauri Shankar</string>
+
+    <string name="description_title">Description</string>
+
+    // planets
+    <string name="mercury">Mercury</string>
+    <string name="venus">Venus</string>
+    <string name="earth">Earth</string>
+    <string name="mars">Mars</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="saturn">Saturn</string>
+    <string name="moon">Moon</string>
+    <string name="sun">Sun</string>
+
+
+    <string name="ruling_planet">Ruling Planet:</string>
+
+    <string name="electrical_text">
+       The ability to send out subtle electrical impulses and inductive vibrations and as in a capacitor to store electrical energy.\n\n
+       In the modern age, with intense competition, the stress levels have increased tremendously. Almost every individual has problems of stress and stress-related ailments like insomnia, alcoholism, depression, maladjustments, heart diseases, skin diseases etc. Doctors can confirm that almost 95% of the ailments are psychosomatic or stress related, i.e. originating from the Mind. When there is stress or maladjustment, corresponding stress signals are sent to the Central Nervous system, there is an increased activity or abnormality of Neurons and Neurotransmitters. The magnitude of change will depend on the cause and specific case. When such a thing occurs and it occurs continuously, streamlined flow of electrical signals throughout the Mind-Body interface is disrupted and it makes us feel uncomfortable, and we are not able to act with our full efficiency. Our Blood circulation becomes non-ideal and we experience various illnesses. Unfortunately, this happens all the time.\n\n
+        Rudraksha Beads, have for thousands of year, been known to act as a Stabilizing Anchor, and the effects have been described in the Ancient Vedic texts. Rudraksha Bead\'s electrical property can be broadly categorized into :\n\n
+
+1) RESISTANCE :- There is continuous and subtle flow of bio-electrical signal throughout the body due to potential difference between parts of the body. Rudraksha Beads of particular Mukhis or Facets have a definitive Factor of Resistance. It is measured in Ohms. When these beads resist the flow of bio-electrical impulses, a specific ampere of current flow is generated depending on the factor of resistance. This acts in tandem with the heartbeat, streamlining it and sending out specific impulses to the brain. These impulses stimulate certain positive brain chemicals. Making us feel better, more confident, poised and more energetic. It has been observed that specific Mukhis or Facets of Rudraksha Beads send out specific signals, acting on a particular brain chemical and thereby effecting specific positive changes in personality. It is well proven that our state of mind and our personality is governed almost completely by the Brain,and  its functioning and that of Central Nervous System.\n\n
+
+2) CAPACITANCE OR THE DIELECTRIC PROPERTIES :- Rudraksha  act as dielectric, i.e. as a storage of electrical energy. This property of Rudraksha makes it capable in stabilizing and anchor the bio-electric current. The values are measured in units of Farad. This property is very helpful in controlling hyperactivity, palpitations of the heart, streamlining heartbeat etc. Due to stress, when there is increased physical activity, the heart beats faster and the overall activity of hormones and the nervous system increases. This causes increased energy levels or increase in potential difference. As a result of this, the magnitude of the bio-electric current increases. Rudraksha Beads, acting as Dielectric, storeing this excess bio-electric energy, thereby streamlining the overall activity to normalcy.\n\n
+   3) INDUCTANCE :- in Rudraksha Beads have permanent magnetic properties. it is  observed that it send out inductive vibrations. its frequencies is measured in units of Henry (Volt Seconds/Ampere).  \n\n
+   </string>
+    <string name="select_zodiac">Select your Zodiac Sign:</string>
+
+    <string name="magnetic_text">
+        Rudraksha  are both Para-magnetic and Diamagnetic, with the most important property of Dynamic Polarity. We all are  aware of the beneficial healing properties of magnets. Magnetic Healing is becoming extremely popular of late and everyone who have been using magnets for healing have been getting the benefits and have found overall betterment and rejuvenation. Rudraksha Beads retain most of the properties of magnets but they are unparallel in one aspect - it have ability to change their polarity or the Property of Dynamic Polarity. The basic way of healing is based on the fact that when the passage of arteries and veins which carry blood  from the heart to all the parts of the body is block.  or reduced due to a variety of reasons, . Blood carries oxygen and energy to various parts of the body and cleanses it off waste materials in the vains and body. Any disruption of the  flow of blood circulation is may bound to cause illnesses.\n\n
+
+We experience pain and uneasiness due to improper blood circulation. Every cell in the blood as well as the arteries and veins is charged either positively or negatively. \n\n
+
+there are two poles present in the magnet, Positive (+) and Negative (-).\n\n
+
+When magnets are passed on various parts of the body, the opposite pole of the magnets and that of the cells get attracted and there is an expansion of the passage. The arteries and veins open up to facilitate streamlined blood circulation. When there is a streamlining of blood circulation, most of the illnesses get automatically cured and we feel better.\n\n
+
+But with magnets the polarity is definate. When magnets are brought near a particular part of the body, they open up only those sections of veins and arteries where there is a matching of polarities, hence complete healing and streamlining of blood circulation cannot be perfact. We experience healing and feel better but we can still go much further with Dynamic Polarity of Rudraksha Beads.\n\n
+
+Rudraksha has the ability to change its polarityThis in turn is by virtue of its property, Dia-magnetism.
+Diamagnetism is termed as the ability of any material to acquire temporary magnetic property in presence of an external magnetic field. The polarity of the charge induced is opposite to that of the external field inducing the charge. Blood circulation and heartbeat automatically induces a magnetic field around the body and particularly the heart region. Bioelectricity automatically gives rise to diamagnetism, depending on the polarity of the induced magnetic field. Rudraksha Bead acquire a polarity that is the opposite of the inducing field. As a result of this, the opening up of the passages of arteries and veins is far better than that of magnets. it is Much better for healing and rejuvenation.\n\n
+    </string>
+
+
+    <!-- Description -->
+    <string name="description_one">This type of Rudraksha symbolizes Lord Shiva himself. Generally it comes in the shape of cashew nut or half moon. This is the supreme Rudraksha for anyone who want to enjoy all the worldly blessings as well as get devoted to the supreme power. A person wearing this rudraksha becomes Fearless and no amount of negative powers or enmity can affect him. The power of concentration increases, all his sins are destroyed and a feeling of contentment and happiness comes along with Spirituality. The wearer of this Rudraksha begins to feel a different from worldly affairs and his inclination towards the supreme power . This is the only Rudraksha that provides Health, Wealth and Happiness in true sense as it also enhances the Spiritual Growth of the wearer.</string>
+    <string name="description_two">Two mukhi Rudraksha symbolizes the combined form of Lord Shiva and Goddess Parvati.  Rudraksha as it brings about unity for its wearer. This Rudraksha helps in harmonizing relations between two individuals (Husband-Wife, Father-Son and Friends etc.) thereby making happier and lasting relations.  2 mukhi Rudraksha frees a person from even the sin of a cow slaughter. It gives a blessing of happy family, improved relationships with all people around as well as  provide suitable friends to the wearer.</string>
+    <string name="description_three">A three Mukhi Rudraksha has three natural lines on  its surface. The ruling deity of this Rudraksha is Lord Agni (Fire). This Rudraksha destroys all the sins done by a person in his past life and makes him pure on a spiritual level like Agni does with all those who come in its contact. This Rudraksha should also be wear to get rid of Inferior thoughts as well as from Fear of unknown. It is helpful for those people also who experience self hatred or mental stress and it make a person energetic via freeing him from laziness. </string>
+    <string name="description_four">A four Mukhi Rudraksha have four lines (Mukhas) on its surface. The ruling deity of this Rudraksha is Lord Brahma (One of the Gods of Hindu tridev) who is the creator of universe as well as the bestower of knowledge and creativity. A wearer of this Rudraksha becomes more knowledgeable since his powers of concentration and learning are increased manifold as well as his memory power also increases and therefore he is able to retain whatever knowledge he acquires. This Rudraksha also positively affects speech of the person so that he is able to use it for his advantage. Students who wear this Rudraksha are able to do better in their studies due to increased memory power and concentration.</string>
+    <string name="description_five">A five Mukhi Rudraksha has got 5 natural lines (mukhas) on its surface. The ruling deity of this Rudraksha is Lord “Kalagni” which is a form of Lord Shiva. This is a most commonly found Rudraksha and it destroys the “Bad Karmas” of the present life, thereby making the wearer pure and his mind become peaceful and calm. This Rudraksha removes sins of various kinds which have been committed by a person in the present life. This Rudraksha has been highly regarded in Ancient Texts and Scripts and it has been given the status of " Dev Guru Rudraksha " because of the fact that its ruling planet is Jupiter who is the Guru of Gods. This Rudraksha also protects a person from Accidental Deaths and it is also very important in any kind of Saadhna or Meditation. A five mukhi Rudraksha also gives a person Name, Fame and Mental Peace. </string>
+    <string name="description_six">A Six Mukhi Rudraksha has six lines (Mukhas) on it surface. The ruling deity of this Rudraksha is Lord Kartikeya who is the second son of Lord Shiva and is also the chief of the celestial army. Therefore the wearer of this Rudraksha gets courage as well as wisdom by the blessings of Lord Kartikeya. This Rudraksha also increases the will power and the power of expression and hence, Leaders and Actors who have to perform or give speeches can derive benefits by wearing this bead. It is said that wearer of this Rudraksha is blessed by Goddess Parvati, Goddess Maha Lakshmi as well as Goddess Saraswati since all of them have blessed Lord Kartikeya who is the ruling Deity of this Rudraksha. Hence, the wearer of this Rudraksha is bestowed with Health, Wealth and Happiness as well as all the Luxuries, Pleasures and Comforts of Life since the ruling planet of this Rudraksha is planet Venus.</string>
+    <string name="description_seven">A Seven mukhi Rudraksha has seven lines ( mukhas) on its surface. The ruling deity of seven Mukhi Rudraksha is Goddess Maha Lakshmi (Goddess of wealth) and the ruling planet is Saturn. Hence, the wearer of this Rudraksha gets wealth and prosperity by the blessings of Goddess Maha Lakshmi. wearer of this rudraksh will get relief  from  bad effects of  Saturn . This Rudraksha is related to the 7 sages (Saptarshi) also and by their blessings the wearer will receiv good Health and Wealth. This Rudraksha is also very good for getting Success in Business and Increased profits if it is used in combination with 8 mukhi Rudraksha. This Rudraksha is also said to help in regaining blocked money as well as for attracting wealth and therefore it is known to be extremely good for businessmen as well as for those also who are in a Job and want Success, Happiness, Promotion and Wealth. As per Ancient Vedic Texts, there are seven divine snakes who reside in the seven mukhas of this Rudraksha and therefore a person wearing this Rudraksha is protected from poisoning of any kind. Since this Rudraksha is blessed by many powerful Gods and Goddesses, the wearer is able to get good Name and Fame, Progress and Wealth as well as Good Luck by the blessiings of Goddess Maha Lakshmi, Saptrshi, seven Divine Snakes, seven Divine mothers and  Saturn.</string>
+    <string name="description_eight">The ruling deity of 8 mukhi Rudraksha is Lord Ganesha who is also known as "Vighna Harrta" i.e. the removing of obstacles. Hence, the wearer of this Rudraksha is able to get Success in every venture by the blessings of Lord Ganesha. One of the most important effect of this Rudraksha is that it removes obstacles so that the wearer is able to get Success easily thereby leading to a happier life. This Rudraksha also increases the stability of mind so that the wearer is able to remain more peaceful and calm. Any person who is desirous of getting Name, Fame and Leadership qualities should  wear this Rudraksha. Its will improve the malific position of planet rahu in the birth chart.</string>
+    <string name="description_nine">The ruling deity of 9 mukhi Rudraksha is Goddess Maha Durga and it is believed that all the 9 incarnations of Goddess Durga (Shailputri, Brahmacharni, Chandraghanta, Kooshmanda, Skandmata, Katyayani, Kalratri, Maha Gauri and Siddhi Daatri) reside in this Rudraksha and hence, the wearer of this Rudraksha is blessed by all of them. This Rudraksha is blessed by Lord Kaal Bhairav and Yamraj who is the Lord of Death and hence, its wearer is no more afraid of Death. This Rudraksha is  to make a person fearless and he is blessed with energy, power, dynamism and fearlessness which leads to a better self confidence thereby helping him achieve Success, Name and Fame. to The wearer of this Rudraksha gets blessings which are received by fasting for the 9 days of Navratras. It is said that this Rudraksha also protects a person from the malefic effects of all the 9 planets.</string>
+    <string name="description_ten">10 Mukhi Rudraksha represents Lord Vishnu who is the preserver of entire universe. It helps the wearer to overcome difficult times and ensures that the wearer and his family are protected by the blessings of Lord Vishnu. It also represents Gods of all the ten directions whose blessings are also showered on its wearer. All sins done by the ten human organs are destroyed by wearing this rudraksha. This Rudraksha is also blessed by Yamraj who is the God of Death and hence the wearer is saved from untimely death. It is also blessed by Das Maha Vidya ( 10 incarnations ). This Rudraksha also protects a person from any kind of Black magic, Evil Eye etc. since it controls and eliminates all kinds of Evil beings. This Rudraksha pacifies all the 9 planets and it is also a very good tool to remove Vastu faults of a place. Hence, the wearer of this Rudraksha is blessed by several Gods as well as he is protected from the negative effects of all the 9 planets, Black Magic and Evil Eye.</string>
+    <string name="description_eleven">Eleven Mukhi Rudraksha is represented by Eleventh Rudra i.e. Lord Hanuman who is the Lord of Courage, Bravery and Adventure. Therefore its wearer gets a feeling of right actions, courage and he fears nothing. If a person wished to donate something for a good cause but could not do that due to any reason, then his wish is considered completed by merely wearing this Rudraksha. This Rudraksha is also blessed by Lord Indra and therefore the wearer is bestowed with all the Fortunes and Luxuries of life.</string>
+    <string name="description_twelve">12 Mukhi Rudraksha is ruled by Surya ( Lord Sun ) who creates a powerful Aura around the wearer. If the Planet Sun is Malefic in the wearers horoscope, then its negative effects are also pacified by this Twelve Mukhi Rudraksha. This Rudraksha improves the Administrative capacity of a person and therefore it is very good for Administrators, Businessmen, and Politicians who should wear this Rudraksha for Name, Fame, Wealth and Power. This Rudraksha is said to possess the Brilliance, Luster, Radiance and Strength of Lord Sun and hence, the wearer is bestowed with all these virtues. The wearer also gets protection from diseases, worries, fear of armed people and wild animals.</string>
+    <string name="description_thirteen">13 Mukhi Rudraksha represent "Lord Kaamdev and Lord Indra" (King of the Gods). It is a very rare bead and it gives immense Wealth and the Position of Authority to its wearer. A person who wears is liked by all those people who interact with him by the blessings of Lord Indra. Hence, a person is able to achieve great heights of Success in his life by wearing this Rudraksha. A person is able to enjoy all the Luxuries of life and he is able to lead a happy and satisfactory life. Since Lord Indra is the king of all the other Gods, a wearer of this Rudraksha is blessed by all the other Gods as well. A person desirous of getting Knowledge, Good Oratory and Debating power should use this Rudraksha.</string>
+    <string name="description_fourteen">14 Mukhi Rudraksha is also known as a Divine Gem ( Dev Mani ). This Rudraksha is considered to have come directly from the eyes of Lord Shiva who himself wears this bead. This Rudraksha activates the Ajna Chakra located between the two Eyebrows thereby giving the wearer an ability to visualize the future so that he is able to make correct decisions. This Rudraksha also represents the 3rd eye of Lord Shiva and hence the wearer is protected from all kinds of Negativity, Negative Energies and Enemies. The wearer of this Rudraksha becomes a favourite of Lord Shiva and he is will blessed by both the Shiva and the Shakti. Not only his present becomes better but his future also becomes brighter. This Rudraksha start giving its results very quickly and hence the name Dev Mani.</string>
+    <string name="description_fifteen">Two naturally joined Rudrakshas are known as Gauri Shankar Rudraksha. It represents a combined form of Lord Shiva and Goddess Parvati. This is a very powerful Rudraksha for improving relations between husband-wife, family and friends, and is considered as a best Rudraksha for bringing peace and happiness in the family.  those people should wear this Rudraksha  who want to find a suitable match for marriage.  this Rudraksha should  wear by people  who  wants childrens.</string>
+
+    <!-- tips-->
+    <string name="tips_heading">A Genuine Rudraksha Bead of good quality has a very long life and it can be passed on from generation to generations, if maintained properly. This is a Natural Bead and therefore if proper care and maintenance is not done then it can get damaged / broken being subjected to natural wear and tear at a faster pace. Similarly, a Rudraksha bead can also physically damaged if a person is not taking normal precautions while wearing it. Here are a few suggestions from our end so that your Rudraksha Beads lasts for a long time and continue to give you its Blessings :</string>
+    <string name="tips_text">
+        1. The Rudraksha Beads / Mala / Bracelet received by you are already Energized as per Ancient Hindu Rituals ( A Pran Pratishtha Puja is performed by our learned Guruji ) before being sent to you, and therefore you do not have to perform any kind of ritual from your end. You may keep the Rudraksha beads at any pious place after you have received them from us and then start wearing them from any Monday morning after taking bath while reciting the Beej Mantra " Om Namaha Shivaya " for 11 times or the specific Beej Mantra of Rudraksha Bead. Thereafter you may continue wearing the Rudraksha on a regular basis.
+    \n\n2. We suggest you not to show your Rudraksha Beads to anyone after you have started wearing them since it reduces the positive effects / benefits of the bead as there are chances that the other person may have a Negative Aura / Negative Feelings towards Rudraksha beads or his hands may not be clean while touching the Rudraksha Bead.
+    \n\n3. It is advisable to remove the Rudraksha beads before going to sleep at night and wear them once again in the next morning after taking bath.
+    \n\n4. Although it is not strictly prohibited, yet it is advisable not to wear Rudrakshas during sex although there are different conflicting views given in the Ancient Texts regarding this.
+    \n\n5. Rudrakshas should not be worn while going to funerals or cremation grounds. However, if you forget to remove them while attending a funeral then you should clean the Rudraksha bead with mild soap and water and thereafter wear it once again while chanting " Om Namaha Shivaya ".
+    \n\n6. The Rudraksha beads may be cleaned periodically after a period of 1-2 months or when you feel that they need to be cleaned. For this, the beads should be dipped in Luke warm water and very mild soap for around an hour after which they can be gently cleaned with a very soft fiber brush under a stream of clean water. One should never use strong detergents or very hot / boiling water. Thereafter, the bead should be kept on a soft absorbent cloth or tissue paper for drying. Once the beads have dried up then you may apply small quantities of Almond oil / Olive oil to the bead preferably with the help of a soft brush.
+    \n\n7. Rudraksha should not be worn during shower / bath since the beads may get damaged if exposed to water and soap on a daily basis.
+    \n\n8. Females should avoid using Rudraksha for 3-4 days when nature is at its work.
+    \n\n9. Any types of dietary habits like Non-veg, Alcohol or Smoking does not decreases or gives harm while wearing the Rudrakshas.
+    \n\n10. Rudrakshas should not be shared / exchanged from one person to another person after it has been worn. But it can be willed and passed on to the next generation.
+    \n\n11. If the thread gets broken while wearing, you can change a new thread and start wearing the Rudraksha once again.
+    \n\n12. Anyone can wear Rudraksha Beads without any discrimination of Sex, Caste or Creed.
+    \n\n13. A person can wear any number of same mukhi / different mukhi Rudraksha Beads in one single Mala.
+    \n\n14. Rudrakshas can be kept in house, office, factory, work place or Puja Room for getting positive energy. However, care should be taken to keep them properly in a clean place.
+    \n\n15. Rudraksha is best if worn in the Red, Yellow or White colored thread or it can be worn in Silver, Gold, Copper or Mixed metal.
+    \n\n16. The Rudrakshas are best worn around Neck so that they are touching the heart area. However, they can also be worn around the arm or wrist.
+    \n\n17. Once you start wearing the Rudraksha, wear it continuously throughout your life with full confidence and faith. One should never loose faith in Rudraksha since it is bound to give its positive effects. However, if Rudrakshas are worn on and off then a person may not be able to get their proper results. Although, the exact timings and level of effects can be substantially variable with person to person.
+    </string>
+
+
+
+    <string name="carrier">Carrier Supportive</string>
+    <string name="study">Study Supportive</string>
+    <string name="delay">Delayed Marriage</string>
+    <string name="marriage">Marriage Relations</string>
+    <string name="business">Improve Business</string>
+    <string name="child">Child Development</string>
+    <string name="raksha">Raksha Kawach</string>
+    <string name="kawach">Bhay Nivaran Kawach</string>
+    <string name="ganesh">Ganesh Mukhi</string>
+
+</resources>
