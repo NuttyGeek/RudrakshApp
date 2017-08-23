@@ -21,6 +21,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.util.Locale;
 
@@ -148,5 +149,6 @@ public class MainActivity extends AppCompatActivity
     public void variousMukhis(View v){startActivity(new Intent(this,VariousRudraksh.class));}
     public void tips(View v){startActivity(new Intent(this,RudrakshTips.class));}
     public void combinations (View v) {startActivity(new Intent(this,Combinations.class));}
+    public void buy(View v) {Toast.makeText(this, "Function to be added later", Toast.LENGTH_SHORT).show();}
 
 }
