@@ -22,8 +22,8 @@ import java.util.Locale;
 
 public class YourRudraksh extends AppCompatActivity {
 
-    String[] zodiacSign ={"<your zodiac sign>","Aries","Taurus","Gemini","Cancer","Leo","Virgo","Libra","Scorpio","Sagittarius","Capricorn","Aquarius","Pisces"};
-
+    String[] zodiacSign ={"<zodiac sign>     <राशि>","Aries     मेष","Taurus     वृषभ","Gemini     मिथुन","Cancer     कर्क","Leo     सिँह",
+            "Virgo     कन्या","Libra     तुला","Scorpio     वृश्चिक","Sagittarius     धनु","Capricorn     मकर","Aquarius     कुंभ","Pisces     मीन"};
     Spinner spinner;
     Toolbar toolbar;
     CardView cardOne,cardTwo;
