@@ -15,8 +15,9 @@ import android.widget.TextView;
 
 public class ScientificIntroduction extends android.support.v4.app.Fragment {
 
-    CardView cardOne;
-    TextView one;
+
+    TextView one,two,three;
+    CardView cardOne,cardTwo,cardThree;
     public ScientificIntroduction() {
         super();
     }
@@ -29,17 +30,48 @@ public class ScientificIntroduction extends android.support.v4.app.Fragment {
         View v = inflater.inflate(R.layout.scientific_introduction,container,false);
 
         one = (TextView)v.findViewById(R.id.chemical_text);
-        one.setVisibility(View.GONE);
+        two = (TextView)v.findViewById(R.id.text_electrical);
+        three = (TextView)v.findViewById(R.id.text_magnetic);
 
         cardOne = (CardView)v.findViewById(R.id.card_one);
+        cardTwo = (CardView)v.findViewById(R.id.card_two);
+        cardThree = (CardView)v.findViewById(R.id.card_three);
+
+        one.setVisibility(View.GONE);
+        two.setVisibility(View.GONE);
+        three.setVisibility(View.GONE);
+
+
         cardOne.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                one.setVisibility(View.VISIBLE);
+              one.setVisibility(View.VISIBLE);
+                two.setVisibility(View.GONE);
+                three.setVisibility(View.GONE);
             }
         });
+
+        cardTwo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                two.setVisibility(View.VISIBLE);
+                one.setVisibility(View.GONE);
+                three.setVisibility(View.GONE);
+
+            }
+        });
+
+        cardThree.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                three.setVisibility(View.VISIBLE);
+                one = (TextView)v.findViewById(R.id.chemical_text);
+                two = (TextView)v.findViewById(R.id.text_electrical);
+            }
+        });
+
         return v;
-
-
     }
+
+
 }
