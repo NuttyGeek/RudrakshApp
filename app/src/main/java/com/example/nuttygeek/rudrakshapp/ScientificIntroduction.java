@@ -65,8 +65,8 @@ public class ScientificIntroduction extends android.support.v4.app.Fragment {
             @Override
             public void onClick(View v) {
                 three.setVisibility(View.VISIBLE);
-                one = (TextView)v.findViewById(R.id.chemical_text);
-                two = (TextView)v.findViewById(R.id.text_electrical);
+                one.setVisibility(View.GONE);
+                two.setVisibility(View.GONE);
             }
         });
 
