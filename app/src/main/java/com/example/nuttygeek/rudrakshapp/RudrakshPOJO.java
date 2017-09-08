@@ -24,6 +24,7 @@ public class RudrakshPOJO {
     }
 
     public String getMantraHindi() {
+
         return mantraHindi;
     }
 

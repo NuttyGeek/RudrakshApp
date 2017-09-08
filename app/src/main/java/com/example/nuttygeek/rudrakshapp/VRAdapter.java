@@ -17,8 +17,9 @@ import java.util.List;
 public class VRAdapter extends RecyclerView.Adapter<VariousRudrakshHolder> {
 
     Context context;
-    String[] mukhi = {"1 Mukhi", "2 Mukhi", "3 Mukhi", "4 Mukhi", "5 Mukhi", "6 Mukhi", "7 Mukhi", "8 Mukhi", "9 Mukhi", "10 Mukhi"
-            , "11 Mukhi", "12 Mukhi", "13 Mukhi", "14 Mukhi", "Gauri Shankar"};
+    int[] mukhi = {R.string.one_mukhi,R.string.two_mukhi, R.string.three_mukhi,R.string.four_mukhi, R.string.five_mukhi,
+            R.string.six_mukhi,R.string.seven_mukhi,R.string.eight_mukhi,R.string.nine_mukhi,R.string.ten_mukhi,
+            R.string.eleven_mukhi,R.string.twelve_mukhi,R.string.thirteen_mukhi,R.string.fourteen_mukhi,R.string.fifteen_mukhi};
 
     public VRAdapter(Context context)
     {   super();

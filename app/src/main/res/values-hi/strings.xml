@@ -34,7 +34,56 @@
 
     <string name="select_zodiac">अपनी राशि चुने :</string>
 
+    <!--Mantras in English
+    "Om Hreeem Namha ","Om Namhh","Om kleem Namh","Om Hreem Namah","Om Hreem Namaha","Om Hreem Hoom Namah"
+    ,"Om Hoom Namahh","Om Hoom Namah","Om Hreeem Hoom Namah","Om Hreem Namaha","Om Hreem Hoom Namaha","Om Kraum Sraum Raum Namaha"
+    ,"Om Hreem Namaha","Om Namaha","Om Gauri shunkraaye Namaha"
+    -->
+
+    <string name="man_one">Om Hreem Namha</string>
+    <string name="man_two">Om Namha</string>
+    <string name="man_three">Om kleem Namah</string>
+    <string name="man_four">Om Hreem Namah</string>
+
+    <string name="man_five">Om Hreem Namaha</string>
+    <string name="man_six">Om Hreem Hoom Namah</string>
+    <string name="man_seven">Om Hoom Namahh</string>
+    <string name="man_eight">Om Hoom Namah</string>
+    <string name="man_nine">Om Hreeem Hoom Namah</string>
+    <string name="man_ten">Om Hreem Namaha</string>
+    <string name="man_eleven">Om Hreem Hoom Namaha</string>
+    <string name="man_twelve">Om Kraum Sraum Raum Namaha</string>
+    <string name="man_thirteen">Om Hreem Namaha</string>
+    <string name="man_fourteen">Om Namaha</string>
+    <string name="man_fifteen">Om Gauri shunkraaye Namaha</string>
+
+
+    <!-- mantra hindi
+    "ओम ह्रीम नमः","ओम नमः","ओम क्लीम नामः","ओम ह्रीम नमः","ओम ह्रीम नमः","ओम ह्रीम हूम नमः",
+    "ओम हूम नमः","ओम हूम नमः","ओम ह्रीम हूम नमः","ओम ह्रीम नमः","ओम ह्रीम हूम नमः","ओम क्रौम स्राओम रौम नमः",
+    "ओम ह्रीम नमः","ओम नमः","ओम गौरी शंकरार्य नमः"
+    -->
+
+    <string name="man_ek">ओम ह्रीम नमः</string>
+    <string name="man_do">ओम नमः</string>
+    <string name="man_teen">ओम क्लीम नामः</string>
+    <string name="man_chaar">ओम ह्रीम नमः</string>
+    <string name="man_panch">ओम ह्रीम नमः</string>
+    <string name="man_she">ओम ह्रीम हूम नमः</string>
+    <string name="man_saat">ओम हूम नमः</string>
+    <string name="man_aath">ओम हूम नमः</string>
+    <string name="man_nau">ओम ह्रीम हूम नमः</string>
+    <string name="man_das">ओम ह्रीम नमः</string>
+    <string name="man_gyara">ओम ह्रीम हूम नमः</string>
+    <string name="man_baarah">ओम क्रौम स्राओम रौम नमः</string>
+    <string name="man_tehra">ओम ह्रीम नमः</string>
+    <string name="man_chauda">ओम नमः</string>
+    <string name="man_pandra">ओम गौरी शंकरार्य नमः</string>
+
     <string name="stppis_heading"></string>
+
+    <string name="myth">आध्यात्मिक</string>
+    <string name="sci">वैज्ञानिक</string>
 
     <string name="electrical_text">
     सूक्ष्म विद्युत आवेगों और आगमनात्मक कंपन को भेजने की क्षमता और विद्युत ऊर्जा को स्टोर करने के लिए एक संधारित्र के रूप में।\n\n
@@ -90,6 +139,24 @@
     <string name="ganesh">गणेश मुखी</string>
     <string name="jupiter">बृहस्पति</string>
     <string name="kawach">"भय निवारण कवच "</string>
+    <string name="two_mukhi">2 मुखी</string>
+    <string name="twelve_mukhi">12 मुखी</string>
+    <string name="rahu">राहू</string>
+    <string name="ketu">Ketu</string>
+    <string name="lord_shiva">Lord Shiva</string>
+    <string name="shiva_parvati">Shiva and Parvati</string>
+    <string name="agnidev">Agnidev</string>
+    <string name="brahma">Lord Brahma</string>
+    <string name="kalagni">Kalagni</string>
+    <string name="kartikey">Kartikey</string>
+    <string name="laxmi">Goddess Lakshmi</string>
+    <string name="ganesha">Lord Ganesha</string>
+    <string name="durga">Goddess Durga</string>
+    <string name="vishnu">Lord Vishnu</string>
+    <string name="hanuman">Lord Hanuman</string>
+    <string name="suryadev">Surya Dev</string>
+    <string name="kamdev_indra">Kamdev and Indra</string>
+    <string name="dev_mani">Dev Mani</string>
     <string name="marriage">विवाहिक संबंध</string>
     <string name="mars">मंगल ग्रह</string>
     <string name="mercury">बुद्ध ग्रह</string>

@@ -78,9 +78,9 @@ public class RudrakshIntro extends AppCompatActivity {
         public CharSequence getPageTitle(int position) {
             switch (position) {
                 case 0:
-                    return "Mythological";
+                    return getString(R.string.myth);
                 case 1:
-                    return "Scientific";
+                    return getString(R.string.sci);
             }
             return null;
         }

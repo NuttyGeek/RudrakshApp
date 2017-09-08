@@ -58,10 +58,10 @@ public class VariousRudraksh extends AppCompatActivity {
 
         db = new RudraDatabase(this,"rudraDB");
         rudraObj = db.getData(1);
-        planetName.setText(rudraObj.getPlanet());
-        godName.setText(rudraObj.getGod());
-        mantraEnglish.setText(rudraObj.getMantra());
-        mantraHindi.setText(rudraObj.getMantraHindi());
+        planetName.setText(String.valueOf(rudraObj.getPlanet()));
+        godName.setText(String.valueOf(rudraObj.getGod()));
+        mantraEnglish.setText(String.valueOf(rudraObj.getMantra()));
+        mantraHindi.setText(String.valueOf(rudraObj.getMantraHindi()));
         planetImage.setImageResource(R.drawable.sun);
         description.setText(R.string.description_one);
 
@@ -75,10 +75,10 @@ public class VariousRudraksh extends AppCompatActivity {
             public void onItemClick(View view, int position) {
 
                 rudraObj  = db.getData(position+1);
-                planetName.setText(rudraObj.getPlanet());
-                godName.setText(rudraObj.getGod());
-                mantraEnglish.setText(rudraObj.getMantra());
-                mantraHindi.setText(rudraObj.getMantraHindi());
+                planetName.setText(String.valueOf(rudraObj.getPlanet()));
+                godName.setText(String.valueOf(rudraObj.getGod()));
+                mantraEnglish.setText(String.valueOf(rudraObj.getMantra()));
+                mantraHindi.setText(String.valueOf(rudraObj.getMantraHindi()));
 
                 switch(rudraObj.getPlanet())
                 {
@@ -114,35 +114,35 @@ public class VariousRudraksh extends AppCompatActivity {
                 }
                 switch(position)
                 {
-                    case 1: description.setText(R.string.description_one);
+                    case 0: description.setText(R.string.description_one);
                         break;
-                    case 2: description.setText(R.string.description_two);
+                    case 1: description.setText(R.string.description_two);
                         break;
-                    case 3: description.setText(R.string.description_three);
+                    case 2: description.setText(R.string.description_three);
                     break;
-                    case 4: description.setText(R.string.description_four);
+                    case 3: description.setText(R.string.description_four);
                         break;
-                    case 5: description.setText(R.string.description_five);
+                    case 4: description.setText(R.string.description_five);
                         break;
-                    case 6: description.setText(R.string.description_six);
+                    case 5: description.setText(R.string.description_six);
                         break;
-                    case 7: description.setText(R.string.description_seven);
+                    case 6: description.setText(R.string.description_seven);
                         break;
-                    case 8: description.setText(R.string.description_eight);
+                    case 7: description.setText(R.string.description_eight);
                         break;
-                    case 9: description.setText(R.string.description_nine);
+                    case 8: description.setText(R.string.description_nine);
                         break;
-                    case 10: description.setText(R.string.description_ten);
+                    case 9: description.setText(R.string.description_ten);
                         break;
-                    case 11: description.setText(R.string.description_eleven);
+                    case 10: description.setText(R.string.description_eleven);
                         break;
-                    case 12: description.setText(R.string.description_twelve);
+                    case 11: description.setText(R.string.description_twelve);
                         break;
-                    case 13: description.setText(R.string.description_thirteen);
+                    case 12: description.setText(R.string.description_thirteen);
                         break;
-                    case 14: description.setText(R.string.description_fourteen);
+                    case 13: description.setText(R.string.description_fourteen);
                         break;
-                    case 15: description.setText(R.string.description_fifteen);
+                    case 14: description.setText(R.string.description_fifteen);
                         break;
 
                 }
